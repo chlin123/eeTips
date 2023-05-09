@@ -1,1 +1,5 @@
+7-segment display，red 2-to-2.2 volts, (blue and white LEDs can be as high as 3.6 volts) 
+each LED segment can draw about 15 mA. 
+(5v – 2v)/15mA=R。
+https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html
 
